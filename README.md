@@ -1,4 +1,3 @@
-# CTGAN-
 
 # CTGAN: Conditional Tabular GAN
 
