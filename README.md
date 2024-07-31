@@ -8,13 +8,8 @@ CTGAN is a PyTorch implementation of Conditional Tabular Generative Adversarial 
 - Generates synthetic tabular data
 - Handles both discrete and continuous columns
 - Conditional generation based on specified attributes
-- Efficient training using PyTorch
 
-## Installation
 
-```bash
-pip install -e .
-```
 
 ## Quick Start
 
