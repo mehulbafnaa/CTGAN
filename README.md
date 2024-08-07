@@ -11,24 +11,6 @@ CTGAN is a JAX implementation of Conditional Tabular Generative Adversarial Netw
 
 
 
-## Quick Start
-
-```python
-from ctgan import CTGAN
-import pandas as pd
-
-# Load your data
-data = pd.read_csv('your_data.csv')
-discrete_columns = ['column1', 'column2']
-
-# Initialize and train the model
-ctgan = CTGAN(epochs=300, batch_size=500)
-ctgan.fit(data, discrete_columns)
-
-# Generate synthetic data
-synthetic_data = ctgan.sample(100)
-```
-
 ## Documentation
 
 For detailed documentation, please visit [our documentation page](https://your-ctgan-docs-url.com).
