@@ -1,7 +1,7 @@
 
 # CTGAN: Conditional Tabular GAN
 
-CTGAN is a PyTorch implementation of Conditional Tabular Generative Adversarial Networks for generating synthetic data.
+CTGAN is a JAX implementation of Conditional Tabular Generative Adversarial Networks for generating synthetic data.
 
 ## Features
 
